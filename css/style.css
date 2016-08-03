@@ -1,0 +1,14 @@
+body {
+  background-image: url(http://i819.photobucket.com/albums/zz113/PuppyPerson/Patterns/Hi_Res_Lined_Paper_Texture_by_merileekitty.jpg);
+
+}
+.container {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20px;
+  background-color: rgb(240,240,240);
+  padding: 20px 20px 20px 20px;
+  border-style:solid;
+  border-color: #ffffff;
+  border-radius:  20px;
+}
