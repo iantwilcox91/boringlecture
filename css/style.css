@@ -12,3 +12,12 @@ body {
   border-color: #ffffff;
   border-radius:  20px;
 }
+h2.intro{
+  color: blue;
+}
+.intro{
+  font-style: italic;
+}
+p.intro{
+  color: red;
+}
